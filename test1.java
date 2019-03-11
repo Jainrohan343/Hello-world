@@ -2,7 +2,7 @@ public Class Hello{
 public static void main(String[] args)
 {
 for (int i=1;i<10;i++)
-{System.out.println("Hello other World....."+i);
+{System.out.println("Hello other15 World....."+i);
  
  
 }
